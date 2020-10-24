@@ -11,6 +11,8 @@ The user is able to Add exercises to a previous workout plan, Add new exercises 
 
 stats page.
 
+This app uses Mongoose, mongo, Express, Node Js.
+
 
 
 
