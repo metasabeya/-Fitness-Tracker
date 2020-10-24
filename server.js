@@ -17,7 +17,7 @@ app.use(express.json());
 //use static files
 app.use(express.static("public"));
 
-const URI = process.env.MONGODB_URI || "mongodb://localhost/workout"
+const URI = process.env.MONGODB_URI || "mongodb://user:password@ds261247.mlab.com:61247/heroku_ct8vrw1g"
 
 mongoose.connect(URI, {
   useUnifiedTopology: true,
