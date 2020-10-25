@@ -16,6 +16,8 @@ stats page.
 
 This app uses Mongoose, mongo, Express, Node Js.
 
+Challengs: the only challeng with this hw is to deploy to heroku using mLab.
+
 
 Links:-
 
